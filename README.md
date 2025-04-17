@@ -1,12 +1,11 @@
 ## 🚀 How to Use
 ### 🛠️ Prerequisites
 
-#### ✅ Install OpenCV + Contrib
+#### ✅ Install OpenCV with Contrib Modules (C++)
 
-📥 OpenCV & OpenCV Contrib :
+📥 OpenCV with Contrib Modules (C++) :
 
-1.https://github.com/opencv/opencv
-2.https://github.com/opencv/opencv_contrib
+https://github.com/opencv/opencv_contrib
 
      # Step #1 - Install dependencies
      sudo apt update && sudo apt install -y cmake g++ libgtk-3-dev libtbb-dev
