@@ -5,10 +5,8 @@
 
 📥 OpenCV & OpenCV Contrib :
 
-https://github.com/opencv/opencv
-https://github.com/opencv/opencv_contrib
-
-      OpenCV Contrib GitHub
+1. https://github.com/opencv/opencv
+2. https://github.com/opencv/opencv_contrib
 
      # Step #1 - Install dependencies
      sudo apt update && sudo apt install -y cmake g++ libgtk-3-dev libtbb-dev
