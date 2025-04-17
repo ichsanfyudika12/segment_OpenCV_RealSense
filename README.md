@@ -34,10 +34,10 @@ https://github.com/IntelRealSense/librealsense/blob/master/doc/installation.md
 ### ⚙️ Build and Run
 
      # Step #1 - Clone this repo
-     git clone https://github.com/ichsanfyudika12/Color_Segment_via_OpenCV-RealSense.git
+     git clone https://github.com/ichsanfyudika12/segment_OpenCV_RealSense.git
      
      # Step #2 - Build
-     cd Color_Segment_via_OpenCV-RealSense
+     cd segment_OpenCV_RealSense
      mkdir build && cd build
      cmake ..
      make
