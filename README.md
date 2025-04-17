@@ -3,7 +3,7 @@
 ### 🛠 Prerequisites
 
 #### ✅ Install OpenCV (with Contrib modules)
-```bash
+
 sudo apt update && sudo apt install -y cmake g++ libgtk-3-dev libtbb-dev
 git clone https://github.com/opencv/opencv.git
 git clone https://github.com/opencv/opencv_contrib.git
@@ -13,9 +13,18 @@ cmake -D CMAKE_BUILD_TYPE=Release \
       -D OPENCV_EXTRA_MODULES_PATH=~/opencv_contrib/modules ..
 make -j$(nproc) && sudo make install
 
-🔗 OpenCV GitHub
-🔗 OpenCV Contrib GitHub
+https://github.com/opencv/opencv_contrib
+
 ✅ Install Intel RealSense SDK
 
-Intel RealSense: 📖 RealSense Installation Guide
+Ikuti panduan resmi dari Intel RealSense: 📖 RealSense Installation Guide
+
+⚙️ Build & Run
+
+git clone https://github.com/ichsanfyudika12/Color_Segment_via_OpenCV-RealSense.git
+cd Color_Segment_via_OpenCV-RealSense
+mkdir build && cd build
+cmake ..
+make
+./cam
 
