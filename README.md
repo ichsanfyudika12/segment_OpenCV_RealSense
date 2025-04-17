@@ -3,9 +3,10 @@
 
 #### ✅ Install OpenCV + Contrib
 
-📥 Source:
+📥 OpenCV & OpenCV Contrib :
 
-      OpenCV GitHub
+https://github.com/opencv/opencv
+https://github.com/opencv/opencv_contrib
 
       OpenCV Contrib GitHub
 
@@ -27,7 +28,9 @@
 
 #### ✅ Install RealSense SDK
 
-📥 Intel RealSense SDK Installation Guide
+📥 Intel RealSense SDK : 
+
+https://github.com/IntelRealSense/librealsense/blob/master/doc/installation.md
 
 ### ⚙️ Build and Run
 
