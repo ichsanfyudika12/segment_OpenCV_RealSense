@@ -1,0 +1,3 @@
+/home/ichan/Documents/realsense_main/build/CMakeFiles/cam.dir
+/home/ichan/Documents/realsense_main/build/CMakeFiles/edit_cache.dir
+/home/ichan/Documents/realsense_main/build/CMakeFiles/rebuild_cache.dir
