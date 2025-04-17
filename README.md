@@ -15,11 +15,11 @@
 
       https://github.com/opencv/opencv_contrib
 
-✅ Install Intel RealSense SDK
+#### ✅ Install Intel RealSense SDK
 
 Intel RealSense: 📖 RealSense Installation Guide
 
-⚙️ Build & Run
+### ⚙️ Build & Run
 
       git clone https://github.com/ichsanfyudika12/Color_Segment_via_OpenCV-RealSense.git
       cd Color_Segment_via_OpenCV-RealSense
