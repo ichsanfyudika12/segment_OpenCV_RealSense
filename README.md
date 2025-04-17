@@ -22,6 +22,8 @@ https://github.com/opencv/opencv_contrib
            -D OPENCV_EXTRA_MODULES_PATH=~/opencv_contrib/modules ..
      make -j$(nproc)     
      sudo make install
+     pkg-config --modversion opencv4
+
 
 #### ✅ Install RealSense SDK
 
